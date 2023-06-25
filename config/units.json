@@ -2,59 +2,59 @@
     {
         "name": "Number System",
         "slug":"number-system",
-        "lessons": [
+        "units": [
             {
-                "lesson":"Basic Counting Number",
+                "unit":"Basic Counting Number",
                 "key": "basic-counting-number",
                 "description": "Natural, Whole, Odd, Even, Prime, Compound numbers etc."
             },
             {
-                "lesson": "Square & Cube Numbers",
+                "unit": "Square & Cube Numbers",
                 "key": "square-cube-number",
                 "description": "Eg. of sq num are 0,1,4,9... & Cube num are 0,1,8,27..."
             },
             {
-                "lesson":"Integers",
+                "unit":"Integers",
                 "key":"integers",
                 "description":"Positive and Negative Number along with Number line."
             },
             {
-                "lesson": "Number Construction",
+                "unit": "Number Construction",
                 "key": "number-construction",
                 "description": "Constructing numbers from digits."
             },
             {
-                "lesson": "Rational & Irrational number",
+                "unit": "Rational & Irrational number",
                 "key": "rational-irrational-number",
                 "description": "Understanding rational and irrational numbers."
             },
             {
-                "lesson": "Fraction & Reciprocal",
+                "unit": "Fraction & Reciprocal",
                 "key": "fraction",
                 "description": "Practicing more with the examples of fractions and reciprocals."
             },
             {
-                "lesson": "Place Values",
+                "unit": "Place Values",
                 "key": "place-value",
                 "description": "Place, Base, Face & Absolute value of a digit in number. The product of base value and face value."
             },
             {
-                "lesson": "Nearest Value",
+                "unit": "Nearest Value",
                 "key": "approx-value",
                 "description": "Approximation of a number to it's closest to a slightly higher or lower number or amount."
             },
             {
-                "lesson": "Decimal Number System",
+                "unit": "Decimal Number System",
                 "key":"decimal",
                 "description": "The number system that we use on day to day basis which uses 10 digits(0,1...9)."
             },
             {
-                "lesson": "Binary Number System",
+                "unit": "Binary Number System",
                 "key": "binary",
                 "description": "The Number system used in computers which only uses 0 and 1."
             },
             {
-                "lesson": "Hexadecimal Number System",
+                "unit": "Hexadecimal Number System",
                 "key": "hexadecimal",
                 "description": "The Number system uses 16 bases( 0,1,2,3,4,5,6,7,8,9,a,b,c,d,f) and commonly used in programming."
             }
@@ -63,34 +63,34 @@
     {
         "name": "Useful Notations",
         "slug":"notations",
-        "lessons": [
+        "units": [
             {
-                "lesson": "Vinculum Notation",
+                "unit": "Vinculum Notation",
                 "key": "vinculum",
                 "description": "Way of writing negative place values within a number."
             },
             {
-                "lesson": "Summation Notation",
+                "unit": "Summation Notation",
                 "key": "sum",
                 "description": "Way of writing the sum of a series of numbers. For example, ∑7= 7+6+5+4+3+2+1=28; therefore, the summation of the natural number series up to 7 is 28."
             },
             {
-                "lesson": "Factorial Notation",
+                "unit": "Factorial Notation",
                 "key": "factorial",
                 "description": "Way of writing the product of a series of numbers. For example, 7!= 7×6×5×4×3×2×1=5040; therefore, the factorial of the natural number series up to 7 is 5040."
             },
             {
-                "lesson": "Exponential Notation",
+                "unit": "Exponential Notation",
                 "key": "exponents",
                 "description": "Exponent is a way of expressing large numbers in terms of small base & power. For example 2⁷ = 2×2×2×2×2×2×2 = 128 or 2 to the power 7 is 128. Here, 2⁷ is an exponent, 2 is the base and 7 is the power."
             },
             {
-                "lesson": "Logarithmic Notation",
+                "unit": "Logarithmic Notation",
                 "key": "log",
                 "description": " Logarithm(log) is the reverse exponent. For example, 2⁷ = 128;, or 7 = log₂ 128 therefore,7 = log₂ 128 or 7 is the logarithm of 128 to the base 2."
             },
             {
-                "lesson": "Constant Notations",
+                "unit": "Constant Notations",
                 "key": "constant",
                 "description": "We got some irrational numbers or constants from experiments which are pretty big numbers to write down or not easier to remember so we use certain alphabets to denote them. For example π (spelled pi) has a value of 3.14159265359... it goes on, so we just use π."
             }
@@ -100,29 +100,29 @@
     {
         "name": "Factors & Multiples",
         "slug":"factor-multiple",
-        "lessons": [
+        "units": [
             {
-                "lesson": "Tables and Multiples",
+                "unit": "Tables and Multiples",
                 "key": "table",
                 "description": "In order to do maths mentally, you would need to know the multiples of 1-9 up to 9th place(i.e. 9*9). It is up to you whether you want to memorize it but eventually, after doing a lot of maths you'll know the multiples eventually."
             },
             {
-                "lesson": "Prime Factorization",
+                "unit": "Prime Factorization",
                 "key": "prime-factor",
                 "description": "A method to find out the factors of a number or check if certein number is divisible by some other number. For example, prime factors of 210 is 2,3,5,7, So we can conclude 210 is divisible by 6,10,14,15..."
             },
             {
-                "lesson": "Square & Cube Roots",
+                "unit": "Square & Cube Roots",
                 "key": "root",
                 "description": "Finding the square root or cube root of a number."
             },
             {
-                "lesson": "Lowest Common Multiple",
+                "unit": "Lowest Common Multiple",
                 "key": "lcm",
                 "description": "A method to find out the lowest number that is a multiple of the given number.eg, LCM of 2,3,5 is 30."
             },
             {
-                "lesson": "Highest Common Factor",
+                "unit": "Highest Common Factor",
                 "key": "hcf",
                 "description": "The highest common factor of the given numbers is the biggest number which is a factor of each of the given numbers.eg, HCF of 36,24,12 is 12."
             }
@@ -131,39 +131,39 @@
     {
         "name": "Core Concepts",
         "slug":"concepts",
-        "lessons": [
+        "units": [
             {
-                "lesson": "Unitary Method",
+                "unit": "Unitary Method",
                 "key": "unitary-method",
                 "description": "The unitary method is used to find the value of a single unit from a given multiple. "
             },
             {
-                "lesson": "Part",
+                "unit": "Part",
                 "key": "part",
                 "description": "Description is under construction. "
             },
             {
-                "lesson": "Ratio",
+                "unit": "Ratio",
                 "key": "ratio",
                 "description": "Description is under construction. "
             },
             {
-                "lesson": "Proportion",
+                "unit": "Proportion",
                 "key": "proportion",
                 "description": "Description is under construction. "
             },
             {
-                "lesson": "Percentage",
+                "unit": "Percentage",
                 "key": "percent",
                 "description": "Description is under construction. "
             },
             {
-                "lesson": "Simplify",
+                "unit": "Simplify",
                 "key": "simplify",
                 "description": "Solving an expression."
             },
             {
-                "lesson": "Solve",
+                "unit": "Solve",
                 "key": "solve",
                 "description": "Solving an equation."
             }
@@ -172,29 +172,29 @@
     {
         "name":"Series & Dataset",
         "slug":"series-dataset",
-        "lessons": [
+        "units": [
             {
-                "lesson": "Series",
+                "unit": "Series",
                 "key": "series",
                 "description": "Predicting the next occurrence in a given series."
             },
             {
-                "lesson": "Mean",
+                "unit": "Mean",
                 "key": "mean",
                 "description": "Calculating the average of the series."
             },
             {
-                "lesson": "Median",
+                "unit": "Median",
                 "key": "median",
                 "description": "Calculating the middle value when a data set is ordered from least to greatest."
             },
             {
-                "lesson": "Mode",
+                "unit": "Mode",
                 "key": "mode",
                 "description": "The mode is the number that occurs most often in a data set."
             },
             {
-                "lesson": "Range",
+                "unit": "Range",
                 "key": "range",
                 "description": "The range is the difference between the highest and lowest values in a set of numbers."
             }
@@ -203,49 +203,49 @@
     {
         "name":"Measurements",
         "slug":"measurement",
-        "lessons":[
+        "units":[
             {
-                "lesson": "Units",
+                "unit": "Units",
                 "key": "units",
                 "description": "The mode is the number that occurs most often in a data set."
             },
             {
-                "lesson": "Quantity",
+                "unit": "Quantity",
                 "key": "quantity",
                 "description": "Scalar, vector and tensor quantities."
             },
             {
-                "lesson": "Dimensions",
+                "unit": "Dimensions",
                 "key": "dimensions",
                 "description": "Dimensions and coordinates."
             },
             {
-                "lesson": "Length",
+                "unit": "Length",
                 "key": "length",
                 "description": "Length or width in one dimention."
             },
             {
-                "lesson": "Graph",
+                "unit": "Graph",
                 "key": "graph",
                 "description": "Description is under construction."
             },
             {
-                "lesson": "Geometry",
+                "unit": "Geometry",
                 "key": "geometry",
                 "description": "Geometrical shapes."
             },
             {
-                "lesson": "Perimeter",
+                "unit": "Perimeter",
                 "key": "perimeter",
                 "description": "Perimeter of 2 dimensional object."
             },
             {
-                "lesson": "Area",
+                "unit": "Area",
                 "key": "area",
                 "description": "Area and surface area."
             },
             {
-                "lesson": "Volume",
+                "unit": "Volume",
                 "key": "volume",
                 "description": "Volume of three dimensional objects."
             }
@@ -254,19 +254,19 @@
     {
         "name":"Kinematics",
         "slug":"kinematics",
-        "lessons":[
+        "units":[
             {
-                "lesson": "Distance",
+                "unit": "Distance",
                 "key": "distance",
                 "description": "Distance and displacement."
             },
             {
-                "lesson": "Speed",
+                "unit": "Speed",
                 "key": "speed",
                 "description": "Distance, Time, Speed"
             },
             {
-                "lesson": "Acceleration",
+                "unit": "Acceleration",
                 "key": "acceleration",
                 "description": "Distance, time, speed, and acceleration."
             }
@@ -275,34 +275,34 @@
     {
         "name":"Finance",
         "slug":"finance",
-        "lessons": [
+        "units": [
             {
-                "lesson": "Simple Interest",
+                "unit": "Simple Interest",
                 "key": "simple-interest",
                 "description": "The mode is the number that occurs most often in a data set."
             },
             {
-                "lesson": "Net Worth",
+                "unit": "Net Worth",
                 "key": "net-worth",
                 "description": "Summing up the value of all assets and liabilities."
             },
             {
-                "lesson": "Compound Interest",
+                "unit": "Compound Interest",
                 "key": "compound-interest",
-                "description": "The most important lesson of life."
+                "description": "The most important unit of life."
             },
             {
-                "lesson": "Profit & Loss",
+                "unit": "Profit & Loss",
                 "key": "profit-loss",
                 "description": "The mode is the number that occurs most often in a data set."
             },
             {
-                "lesson": "Income & Expanse",
+                "unit": "Income & Expanse",
                 "key": "income-expanse",
                 "description": "The mode is the number that occurs most often in a data set."
             },
             {
-                "lesson": "Saving & Investing",
+                "unit": "Saving & Investing",
                 "key": "saving-investing",
                 "description": "The mode is the number that occurs most often in a data set."
             }
@@ -311,19 +311,19 @@
     {
         "name":"Miscellaneous",
         "slug":"misc",
-        "lessons":[
+        "units":[
             {
-                "lesson": "Time",
+                "unit": "Time",
                 "key": "time",
                 "description": "Time, date and calendar."
             },
             {
-                "lesson": "Labour",
+                "unit": "Labour",
                 "key": "labour",
                 "description": "The description is under construction."
             },
             {
-                "lesson": "Pipe & tube",
+                "unit": "Pipe & tube",
                 "key": "pipe-tube",
                 "description": "The description is under construction."
             }

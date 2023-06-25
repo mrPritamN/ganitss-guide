@@ -2,6 +2,20 @@
  
 Welcome to Ganit Swayam Shikshak. It is gamified platform where you can learn & practice fundamental problem solving in **computation**, **coding**, **finance**, **physics**, **chemistry** etc. by applying basic mathematical concepts.:)
 
+## Modules
+
+import { Card, Cards } from 'nextra-theme-docs'
+import units from 'config/units'
+
+<Cards>
+    {units.map(
+        (item, index) =>
+        item.name && (
+            <Card title={item.name} href={item.slug} key={index}/>
+        )
+    )}
+</Cards>
+
 ## What is Ganit SS?
 
 A **simple**, **powerful** and **flexible** yet **methodical** way of learning problem solving and developing computational intuition in `computation`, `coding`, `finance`, `physics` etc..
