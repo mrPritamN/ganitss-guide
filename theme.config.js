@@ -18,9 +18,9 @@ import {
 /** @type {import('nextra-theme-docs').DocsThemeConfig} */
 const themeConfig = {
   project: {
-    link: "https://github.com/vercel/swr",
+    link: "https://github.com/MaverickMandir/ganitss-guide",
   },
-  docsRepositoryBase: "https://github.com/vercel/swr-site/blob/main",
+  docsRepositoryBase: "https://github.com/MaverickMandir/ganitss-guide/blob/main",
   useNextSeoProps() {
     return {
       titleTemplate: "%s – SWR",
