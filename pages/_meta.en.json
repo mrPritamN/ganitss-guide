@@ -4,5 +4,13 @@
         "type": "separator",
         "title": "Modules"
       },
-    "number-system":"Number System"
+    "number-system"   : "1. Number System",
+    "notations"       : "2. Useful Notations",
+    "factor-multiple" : "3. Factors & Multiples",
+    "concepts"        : "4. Core Concepts",
+    "series-dataset"  : "5. Series & Dataset",
+    "measurement"     : "6. Measurements",
+    "kinematics"      : "7. Kinematics",
+    "finance"         : "8. Finance",
+    "misc"            : "9. Miscellaneous"
 }

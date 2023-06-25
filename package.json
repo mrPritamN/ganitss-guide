@@ -1,7 +1,6 @@
 {
   "name": "ganitss-guide",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "next",
@@ -9,8 +8,7 @@
     "start": "next start",
     "build": "next build"
   },
-  "author": "Shu Ding",
-  "license": "Apache-2.0",
+  "author": "Arpan Mon",
   "dependencies": {
     "@vercel/analytics": "^0.1.11",
     "focus-visible": "^5.2.0",

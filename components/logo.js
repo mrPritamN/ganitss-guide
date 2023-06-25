@@ -1,10 +1,41 @@
-export default function Logo({ height }) {
+export default function Logo() {
   return (
-    <svg height={height} viewBox="0 0 291 69" fill="none">
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      width="48"
+      height="48"
+      fill="none"
+      viewBox="0 0 48 48"
+    >
+      <path fill="#1E1E1E" d="M0 0H48V48H0z"></path>
+      <circle cx="24" cy="24" r="24" fill="#000"></circle>
+      <path fill="url(#paint0_angular_0_1)" d="M10 10H38V38H10z"></path>
+      <path fill="#000" d="M17 17H20V38H17z"></path>
       <path
-        d="M0 36.53c.07 17.6 14.4 32.01 32.01 32.01a32.05 32.05 0 0032.01-32V32a13.2 13.2 0 0123.4-8.31h20.7A32.07 32.07 0 0077.2 0a32.05 32.05 0 00-32 32.01v4.52A13.2 13.2 0 0132 49.71a13.2 13.2 0 01-13.18-13.18 3.77 3.77 0 00-3.77-3.77H3.76A3.77 3.77 0 000 36.53zM122.49 68.54a32.14 32.14 0 01-30.89-23.7h20.67a13.16 13.16 0 0023.4-8.3V32A32.05 32.05 0 01167.68 0c17.43 0 31.64 14 32 31.33l.1 5.2a13.2 13.2 0 0023.4 8.31h20.7a32.07 32.07 0 01-30.91 23.7c-17.61 0-31.94-14.42-32.01-32l-.1-4.7v-.2a13.2 13.2 0 00-13.18-12.81 13.2 13.2 0 00-13.18 13.18v4.52a32.05 32.05 0 01-32.01 32.01zM247.94 23.7a13.16 13.16 0 0123.4 8.31 3.77 3.77 0 003.77 3.77h11.3a3.77 3.77 0 003.76-3.77A32.05 32.05 0 00258.16 0a32.07 32.07 0 00-30.92 23.7h20.7z"
-        fill="currentColor"
-      />
+        fill="#000"
+        d="M9 10.414H11V22.414H9z"
+        transform="rotate(-45 9 10.414)"
+      ></path>
+      <path fill="#000" d="M18 17H30V20H18z"></path>
+      <path fill="#000" d="M28 17H31V38H28z"></path>
+      <path
+        fill="#000"
+        d="M30.414 18.899H32.414V30.899H30.414z"
+        transform="rotate(-135 30.414 18.9)"
+      ></path>
+      <defs>
+        <radialGradient
+          id="paint0_angular_0_1"
+          cx="0"
+          cy="0"
+          r="1"
+          gradientTransform="rotate(55.62 -8.735 28.235) scale(11.5109 12.23)"
+          gradientUnits="userSpaceOnUse"
+        >
+          <stop offset="0.531" stopColor="#E29DE3"></stop>
+          <stop offset="1" stopColor="#89CEC2"></stop>
+        </radialGradient>
+      </defs>
     </svg>
   );
 }

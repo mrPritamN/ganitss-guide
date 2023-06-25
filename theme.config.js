@@ -23,7 +23,7 @@ const themeConfig = {
   docsRepositoryBase: "https://github.com/MaverickMandir/ganitss-guide/blob/main",
   useNextSeoProps() {
     return {
-      titleTemplate: "%s – SWR",
+      titleTemplate: "%s – GSS",
     };
   },
   toc: {
@@ -43,12 +43,12 @@ const themeConfig = {
     const title = useLocalesMap(titleMap);
     return (
       <>
-        <Logo height={12} />
+        <Logo />
         <span
           className="mx-2 font-extrabold hidden md:inline select-none"
-          title={`SWR: ${title}`}
+          title={`GSS: ${title}`}
         >
-          Starter
+          Ganit SS
         </span>
       </>
     );
