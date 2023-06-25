@@ -43,12 +43,11 @@ const themeConfig = {
     const title = useLocalesMap(titleMap);
     return (
       <>
-        <Logo />
         <span
-          className="mx-2 font-extrabold hidden md:inline select-none"
+          className="mx-2 font-extrabold text-2xl hidden md:inline select-none"
           title={`GSS: ${title}`}
         >
-          Ganit SS
+          GSS Guide
         </span>
       </>
     );
@@ -73,7 +72,7 @@ const themeConfig = {
         <link
           rel="icon"
           type="image/png"
-          href="/favicon.png"
+          href="/logo.png"
         />
         <meta name="description" content={ogDescription} />
         <meta property="og:title" content={ogTitle} />
@@ -89,21 +88,12 @@ const themeConfig = {
   },
   footer: {
     text: () => {
-      const { utmSource, text, suffix } = useLocalesMap(footerTextMap);
-
       return (
-        <a
-          href={`https://vercel.com/?utm_source=${utmSource}`}
-          target="_blank"
-          rel="noopener"
-          className="inline-flex items-center no-underline text-current font-semibold"
+        <span
+          className="mx-4 font-extrabold hidden md:inline select-none"
         >
-          <span className="mr-2">{text}</span>
-          <span>
-            <Vercel />
-          </span>
-          {suffix ? <span className="ml-2">{suffix}</span> : null}
-        </a>
+          Ganit Swayam Shikshak. © Maverick Mandir.
+        </span>
       );
     },
   },
