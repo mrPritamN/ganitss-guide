@@ -5,13 +5,11 @@
         "units": [
             {
                 "unit":"Basic Counting Number",
-                "key": "basic-counting-number",
-                "description": "Natural, Whole, Odd, Even, Prime, Compound numbers etc."
+                "key": "basic-counting-number"
             },
             {
                 "unit": "Square & Cube Numbers",
-                "key": "square-cube-number",
-                "description": "Eg. of sq num are 0,1,4,9... & Cube num are 0,1,8,27..."
+                "key": "square-cube-number"
             },
             {
                 "unit":"Integers",
@@ -25,23 +23,16 @@
             },
             {
                 "unit": "Rational & Irrational number",
-                "key": "rational-irrational-number",
-                "description": "Understanding rational and irrational numbers."
+                "key": "rational-irrational-number"
             },
             {
                 "unit": "Fraction & Reciprocal",
-                "key": "fraction",
-                "description": "Practicing more with the examples of fractions and reciprocals."
+                "key": "fraction"
             },
             {
                 "unit": "Place Values",
                 "key": "place-value",
-                "description": "Place, Base, Face & Absolute value of a digit in number. The product of base value and face value."
-            },
-            {
-                "unit": "Nearest Value",
-                "key": "approx-value",
-                "description": "Approximation of a number to it's closest to a slightly higher or lower number or amount."
+                "description": "Place, Base, Face, Absolute & Approx value of a digit in number. The product of base value and face value."
             },
             {
                 "unit": "Decimal Number System",
@@ -201,7 +192,7 @@
         ]
     },
     {
-        "name":"Measurements",
+        "name":"Unit & Measurements",
         "slug":"measurement",
         "units":[
             {
