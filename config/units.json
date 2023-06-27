@@ -263,8 +263,7 @@
         "units":[
             {
                 "unit": "Time",
-                "key": "time",
-                "description": "Time, date and calendar."
+                "key": "time"
             },
             {
                 "unit": "Labour",
