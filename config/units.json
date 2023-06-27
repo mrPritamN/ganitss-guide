@@ -71,8 +71,7 @@
             },
             {
                 "unit": "Constant Notations",
-                "key": "constant",
-                "description": ""
+                "key": "constant"
             }
         ]
 
@@ -170,48 +169,39 @@
         "units":[
             {
                 "unit": "Units",
-                "key": "units",
-                "description": "The mode is the number that occurs most often in a data set."
+                "key": "units"
             },
             {
                 "unit": "Quantity",
-                "key": "quantity",
-                "description": "Scalar, vector and tensor quantities."
+                "key": "quantity"
             },
             {
                 "unit": "Dimensions",
-                "key": "dimensions",
-                "description": "Dimensions and coordinates."
+                "key": "dimensions"
             },
             {
                 "unit": "Length",
-                "key": "length",
-                "description": "Length or width in one dimention."
+                "key": "length"
             },
             {
                 "unit": "Graph",
-                "key": "graph",
-                "description": "Description is under construction."
+                "key": "graph"
             },
             {
                 "unit": "Geometry",
-                "key": "geometry",
-                "description": "Geometrical shapes."
+                "key": "geometry"
             },
             {
                 "unit": "Perimeter",
-                "key": "perimeter",
-                "description": "Perimeter of 2 dimensional object."
+                "key": "perimeter"
             },
             {
                 "unit": "Area",
-                "key": "area",
-                "description": "Area and surface area."
+                "key": "area"
             },
             {
                 "unit": "Volume",
-                "key": "volume",
-                "description": "Volume of three dimensional objects."
+                "key": "volume"
             }
         ]
     },
@@ -221,18 +211,19 @@
         "units":[
             {
                 "unit": "Distance",
-                "key": "distance",
-                "description": "Distance and displacement."
+                "key": "distance"
             },
             {
                 "unit": "Speed",
-                "key": "speed",
-                "description": "Distance, Time, Speed"
+                "key": "speed"
             },
             {
                 "unit": "Acceleration",
-                "key": "acceleration",
-                "description": "Distance, time, speed, and acceleration."
+                "key": "acceleration"
+            },
+            {
+                "unit":"Time",
+                "key":"time"
             }
         ]
     },
@@ -242,33 +233,27 @@
         "units": [
             {
                 "unit": "Simple Interest",
-                "key": "simple-interest",
-                "description": "The mode is the number that occurs most often in a data set."
+                "key": "simple-interest"
             },
             {
                 "unit": "Net Worth",
-                "key": "net-worth",
-                "description": "Summing up the value of all assets and liabilities."
+                "key": "net-worth"
             },
             {
                 "unit": "Compound Interest",
-                "key": "compound-interest",
-                "description": "The most important unit of life."
+                "key": "compound-interest"
             },
             {
                 "unit": "Profit & Loss",
-                "key": "profit-loss",
-                "description": "The mode is the number that occurs most often in a data set."
+                "key": "profit-loss"
             },
             {
                 "unit": "Income & Expanse",
-                "key": "income-expanse",
-                "description": "The mode is the number that occurs most often in a data set."
+                "key": "income-expanse"
             },
             {
                 "unit": "Saving & Investing",
-                "key": "saving-investing",
-                "description": "The mode is the number that occurs most often in a data set."
+                "key": "saving-investing"
             }
         ]
     },
