@@ -1,3 +1,7 @@
 {
-    
+    "series":"Series",
+    "mean":"Mean",
+    "median":"Median",
+    "mode":"Mode",
+    "range":"Range"
 }

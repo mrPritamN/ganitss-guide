@@ -144,28 +144,23 @@
         "units": [
             {
                 "unit": "Series",
-                "key": "series",
-                "description": "Predicting the next occurrence in a given series."
+                "key": "series"
             },
             {
                 "unit": "Mean",
-                "key": "mean",
-                "description": "Calculating the average of the series."
+                "key": "mean"
             },
             {
                 "unit": "Median",
-                "key": "median",
-                "description": "Calculating the middle value when a data set is ordered from least to greatest."
+                "key": "median"
             },
             {
                 "unit": "Mode",
-                "key": "mode",
-                "description": "The mode is the number that occurs most often in a data set."
+                "key": "mode"
             },
             {
                 "unit": "Range",
-                "key": "range",
-                "description": "The range is the difference between the highest and lowest values in a set of numbers."
+                "key": "range"
             }
         ]
     },
