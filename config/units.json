@@ -51,33 +51,28 @@
         "units": [
             {
                 "unit": "Vinculum Notation",
-                "key": "vinculum",
-                "description": "Way of writing negative place values within a number."
+                "key": "vinculum"
             },
             {
                 "unit": "Summation Notation",
-                "key": "sum",
-                "description": "Way of writing the sum of a series of numbers. For example, ∑7= 7+6+5+4+3+2+1=28; therefore, the summation of the natural number series up to 7 is 28."
+                "key": "sum"
             },
             {
                 "unit": "Factorial Notation",
-                "key": "factorial",
-                "description": "Way of writing the product of a series of numbers. For example, 7!= 7×6×5×4×3×2×1=5040; therefore, the factorial of the natural number series up to 7 is 5040."
+                "key": "factorial"
             },
             {
                 "unit": "Exponential Notation",
-                "key": "exponents",
-                "description": "Exponent is a way of expressing large numbers in terms of small base & power. For example 2⁷ = 2×2×2×2×2×2×2 = 128 or 2 to the power 7 is 128. Here, 2⁷ is an exponent, 2 is the base and 7 is the power."
+                "key": "exponents"
             },
             {
                 "unit": "Logarithmic Notation",
-                "key": "log",
-                "description": " Logarithm(log) is the reverse exponent. For example, 2⁷ = 128;, or 7 = log₂ 128 therefore,7 = log₂ 128 or 7 is the logarithm of 128 to the base 2."
+                "key": "log"
             },
             {
                 "unit": "Constant Notations",
                 "key": "constant",
-                "description": "We got some irrational numbers or constants from experiments which are pretty big numbers to write down or not easier to remember so we use certain alphabets to denote them. For example π (spelled pi) has a value of 3.14159265359... it goes on, so we just use π."
+                "description": ""
             }
         ]
 
@@ -88,28 +83,23 @@
         "units": [
             {
                 "unit": "Tables and Multiples",
-                "key": "table",
-                "description": "In order to do maths mentally, you would need to know the multiples of 1-9 up to 9th place(i.e. 9*9). It is up to you whether you want to memorize it but eventually, after doing a lot of maths you'll know the multiples eventually."
+                "key": "table"
             },
             {
                 "unit": "Prime Factorization",
-                "key": "prime-factor",
-                "description": "A method to find out the factors of a number or check if certein number is divisible by some other number. For example, prime factors of 210 is 2,3,5,7, So we can conclude 210 is divisible by 6,10,14,15..."
+                "key": "prime-factor"
             },
             {
                 "unit": "Square & Cube Roots",
-                "key": "root",
-                "description": "Finding the square root or cube root of a number."
+                "key": "root"
             },
             {
                 "unit": "Lowest Common Multiple",
-                "key": "lcm",
-                "description": "A method to find out the lowest number that is a multiple of the given number.eg, LCM of 2,3,5 is 30."
+                "key": "lcm"
             },
             {
                 "unit": "Highest Common Factor",
-                "key": "hcf",
-                "description": "The highest common factor of the given numbers is the biggest number which is a factor of each of the given numbers.eg, HCF of 36,24,12 is 12."
+                "key": "hcf"
             }
         ]
     },
