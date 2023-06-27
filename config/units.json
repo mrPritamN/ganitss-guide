@@ -13,13 +13,11 @@
             },
             {
                 "unit":"Integers",
-                "key":"integers",
-                "description":"Positive and Negative Number along with Number line."
+                "key":"integers"
             },
             {
                 "unit": "Number Construction",
-                "key": "number-construction",
-                "description": "Constructing numbers from digits."
+                "key": "number-construction"
             },
             {
                 "unit": "Rational & Irrational number",
@@ -30,24 +28,20 @@
                 "key": "fraction"
             },
             {
-                "unit": "Place Values",
-                "key": "place-value",
-                "description": "Place, Base, Face, Absolute & Approx value of a digit in number. The product of base value and face value."
+                "unit": "Values",
+                "key": "value"
             },
             {
                 "unit": "Decimal Number System",
-                "key":"decimal",
-                "description": "The number system that we use on day to day basis which uses 10 digits(0,1...9)."
+                "key":"decimal"
             },
             {
                 "unit": "Binary Number System",
-                "key": "binary",
-                "description": "The Number system used in computers which only uses 0 and 1."
+                "key": "binary"
             },
             {
                 "unit": "Hexadecimal Number System",
-                "key": "hexadecimal",
-                "description": "The Number system uses 16 bases( 0,1,2,3,4,5,6,7,8,9,a,b,c,d,f) and commonly used in programming."
+                "key": "hexadecimal"
             }
         ]
     },
