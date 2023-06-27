@@ -86,8 +86,8 @@
                 "key": "table"
             },
             {
-                "unit": "Prime Factorization",
-                "key": "prime-factor"
+                "unit": "Factorization",
+                "key": "factor"
             },
             {
                 "unit": "Square & Cube Roots",
