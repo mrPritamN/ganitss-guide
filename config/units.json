@@ -109,28 +109,23 @@
         "units": [
             {
                 "unit": "Unitary Method",
-                "key": "unitary-method",
-                "description": "The unitary method is used to find the value of a single unit from a given multiple. "
+                "key": "unitary-method"
             },
             {
                 "unit": "Part",
-                "key": "part",
-                "description": "Description is under construction. "
+                "key": "part"                                       
             },
             {
                 "unit": "Ratio",
-                "key": "ratio",
-                "description": "Description is under construction. "
+                "key": "ratio" 
             },
             {
                 "unit": "Proportion",
-                "key": "proportion",
-                "description": "Description is under construction. "
+                "key": "proportion" 
             },
             {
                 "unit": "Percentage",
-                "key": "percent",
-                "description": "Description is under construction. "
+                "key": "percent" 
             },
             {
                 "unit": "Simplify",
@@ -139,8 +134,7 @@
             },
             {
                 "unit": "Solve",
-                "key": "solve",
-                "description": "Solving an equation."
+                "key": "solve"
             }
         ]
     },

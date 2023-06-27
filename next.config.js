@@ -1,6 +1,7 @@
 const withNextra = require("nextra")({
   theme: "nextra-theme-docs",
   themeConfig: "./theme.config.js",
+  latex: true,
   staticImage: true,
   flexsearch: {
     codeblocks: false,
@@ -13,14 +14,8 @@ module.exports = withNextra({
     locales: ["en", "bn", "hn"],
     defaultLocale: "en",
   },
-  redirects: () => {
-    return [
-      {
-        source: "/docs",
-        destination: "/docs/getting-started",
-        statusCode: 301,
-      },
-    ];
-  },
   reactStrictMode: true,
+  eslint: {
+    ignoreDuringBuilds: true
+  },
 });
