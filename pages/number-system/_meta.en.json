@@ -2,5 +2,11 @@
   "basic-counting-number": "Basic Counting Number",
   "square-cube-number": "Square & Cube Numbers",
   "integers":"Integers",
-  "number-construction": "Number Construction"
+  "number-construction": "Number Construction",
+  "rational-irrational-number": "Rational & Irrational number",
+  "fraction": "Fraction & Reciprocal",
+  "value": "Values",
+  "decimal": "Decimal Number System",
+  "binary":"Binary Number System",
+  "hexadecimal":"Hexadecimal Number System"
 }

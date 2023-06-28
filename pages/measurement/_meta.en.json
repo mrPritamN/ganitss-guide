@@ -1,3 +1,11 @@
 {
-    
+    "units":"Units",
+    "quantity":"Quantity",
+    "dimensions":"Dimensions",
+    "length":"Length",
+    "graph":"Graph",
+    "geometry":"Geometry",
+    "perimeter":"Perimeter",
+    "area":"Area",
+    "volume":"Volume"
 }

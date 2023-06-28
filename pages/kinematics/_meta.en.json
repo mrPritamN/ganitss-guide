@@ -1,3 +1,6 @@
 {
-    
+    "distance":"Distance",
+    "speed":"Speed",
+    "acceleration":"Acceleration",
+    "time":"Time"
 }
